@@ -25,4 +25,4 @@
    1. git clone 
    2. open folder: cd  /Solo_Man
    3. flutter run
-   4. pilih prowser/emulator 
+   4. pilih browser/emulator 
