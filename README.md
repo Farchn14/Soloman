@@ -23,6 +23,6 @@
 1. **Clone repositori ini:**
    ```bash
    1. git clone 
-   2. open folder: cd  /Solo_Man
+   2. buka folder in text editor: cd  /Solo_Man
    3. flutter run
    4. pilih browser/emulator 
