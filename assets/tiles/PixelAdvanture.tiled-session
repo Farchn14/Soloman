@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level02.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Level01.tmx": {
+            "expandedObjectLayers": [
+                4,
+                5
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 235,
+                "y": 104.25
+            }
+        },
+        "Level02.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320.5,
+                "y": 183.75
+            }
+        },
+        "Pixel Advanture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/sekolah/flutter-game/Solo_Man/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Pixel Advanture.tsx",
+        "Level01.tmx",
+        "Level02.tmx"
+    ],
+    "project": "PixelAdvanture.tiled-project",
+    "recentFiles": [
+        "Pixel Advanture.tsx",
+        "Level01.tmx",
+        "Level02.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
