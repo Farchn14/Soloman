@@ -1,16 +1,28 @@
-# soloman
+# Solo Man - Flutter Game 🎮
 
-A new Flutter project.
+**Solo Man** adalah game 2D platformer yang dibangun menggunakan **Flutter** dengan **Flame Engine**. Proyek ini merupakan hasil modifikasi dan pengembangan mandiri dari tutorial YouTube, dengan kustomisasi fitur dan mekanisme gameplay.
 
-## Getting Started
+## 🚀 Fitur Utama
+- **Flame Engine**: Framework game yang ringan dan kuat untuk Flutter.
+- **Tiled Map Editor**: Level desain yang presisi menggunakan tilemap.
+- **Custom Mechanics**: Modifikasi gameplay dari struktur dasar tutorial.
+- **Responsive Control**: Support untuk dekstop dan mobile.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Bahasa**: [Dart](https://dart.dev)
+- **Framework**: [Flutter](https://flutter.dev)
+- **Game Engine**: [Flame](https://flame-engine.org)
+- **Editor**: Visual Studio Code
+- **Map & Tileset**: [Tiled Map Editor](https://www.mapeditor.org)
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 Aset
+- **Karakter & Lingkungan**: Aset gratis yang diperoleh dari [Itch.io](https://itch.io).
+- **Map Design**: Dibuat dan dikonfigurasi menggunakan Tiled (`.tmx` & `.tsj`).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Cara Menjalankan Proyek
+1. **Clone repositori ini:**
+   ```bash
+   1. git clone 
+   2. open folder: cd  /Solo_Man
+   3. flutter run
+   4. pilih prowser/emulator 
